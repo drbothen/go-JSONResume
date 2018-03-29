@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"repo.theoremforge.com/me/go-JSONResume"
+	"github.com/drbothen/go-JSONResume"
 	"fmt"
 )
 
